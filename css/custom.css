@@ -1,0 +1,52 @@
+#paraFont {
+    font-size: 1.3em;
+}
+
+.method_setting {
+    padding: 1em;
+    width: 20em;
+}
+
+.logo {
+    margin-top: 1em;
+}
+
+.row {
+    margin-left: 5em;
+}
+
+
+/* .extended-nav {
+    width: 1100px !important;
+} */
+
+.autor a {
+    color: steelblue;
+}
+
+.autor {
+    font-size: 16px;
+    font-weight: 700;
+}
+
+custom_gird_12 {
+    width: 948px;
+}
+
+.style4 {
+    margin-top: 0.4em;
+    margin-bottom: 1em;
+    border-bottom: 2px dotted white;
+    padding: 1em;
+    font-size: 1.5em;
+}
+
+.methods {
+    text-align: center;
+    font-size: 1.5em;
+    margin-top: 2em;
+}
+
+.li li {
+    padding: 0.3em;
+}
