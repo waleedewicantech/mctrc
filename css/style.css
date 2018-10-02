@@ -68,7 +68,7 @@ h5 {
     padding-bottom: 16px;
     line-height: 24px;
     margin-bottom: 19px;
-    border-bottom: 1px solid #636569;
+    border-bottom: 1px solid red;
 }
 
 .fl1 {
@@ -385,7 +385,8 @@ h4 .wrap {
 h4 span {
     overflow: hidden;
     display: block;
-    background: url(../images/head_sep.png) 0 bottom repeat-x;
+    border-bottom: 2px double red;
+    /* background: url(../images/head_sep.png) 0 bottom repeat-x; */
     height: 4px;
     padding-top: 19px;
 }
@@ -403,8 +404,9 @@ h4 span {
 
 .white h4 {
     color: #171616;
-    background: url(../images/sep_on_white.png) 0 bottom repeat-x;
+    /* background: url(../images/sep_on_white.png) 0 bottom repeat-x; */
     padding-bottom: 22px;
+    border-bottom: 1px solid red;
     margin-bottom: 20px;
     padding-top: 47px;
     margin-bottom: 27px;
